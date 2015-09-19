@@ -1,0 +1,16 @@
+filename :data/cf.png
+Controller Type: 0
+Joystick Count: 1
+Video Info: 1040
+Joystick:0
+	Name:DragonRise Inc.   Generic   USB  Joystick  
+	Axes:5
+	Trackballs:0
+	Buttons:12
+2
+3
+level_1
+data/left.bmp	data/back.bmp	data/right.bmp	data/front.bmp	data/top.bmp	data/bottom.bmp	4
+arena_floor.obj
+Text
+filename :data/cf.png
